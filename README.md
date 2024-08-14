@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me ms@technoholicas.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Nature
 
 <!---
 ms-technoholic/ms-technoholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
